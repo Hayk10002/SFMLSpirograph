@@ -11,8 +11,8 @@ After drawing a line
 * **N** to delete that line and draw a new line.
 
 
-Second program is spirograph that try to draw your line
-After one cicle the number of nodes of spirograph increasing by one and line that draws the spirograph, starts look like to the line that you draw.
+Second program is spirograph that try to draw your line.
+After one cicle the number of nodes of spirograph increasing by one and line that draws the spirograph starts look like to the line that you draw.
 While spirograph is drawing
 * **Rotate mouse wheel without pressing CTRL** to increase or decrease speed of spirograph.
 * **Rotate mouse wheel with pressing CTRL** to zoom in or zoom out the canvas.
