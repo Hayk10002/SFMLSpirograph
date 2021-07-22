@@ -1,6 +1,5 @@
 # Intro
 This is a program code for spirograph with innumerable nodes that draws whatever you want with [SFML](https://sfml-dev.org).
-
 Òhat's where i got the idea for this project ---> <https://youtu.be/r6sGWTCMz2k>.
 
 ## Controls
