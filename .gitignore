@@ -2,4 +2,7 @@ Debug/
 Release/
 x64/
 SfmlFurierSeries.sln
+SfmlFurierSeries/SfmlFurierSeries.vcxproj
+SfmlFurierSeries/SfmlFurierSeries.vcxproj.user
+SfmlFurierSeries/SfmlFurierSeries.vcxproj.filters
 .vs/
