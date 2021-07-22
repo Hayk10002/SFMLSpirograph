@@ -93,8 +93,8 @@ VertexArray funcline(LineStrip, 1), vectors(LineStrip, 2);
 Complex consts[10001];
 int main()
 {
-	ifstream inputfile("C:/Users/hayk/source/c++/repos/SfmlFurierSeries/inputfile.txt");
-	ifstream num("C:/Users/hayk/source/c++/repos/SfmlFurierSeries/num.txt");
+	ifstream inputfile("../inputfile.txt");
+	ifstream num("../num.txt");
 	double wx, wy;
 	num >> N;
 	num >> wx >> wy;

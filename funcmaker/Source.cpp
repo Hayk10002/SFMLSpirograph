@@ -14,7 +14,7 @@ int main()
 	int funci = 0;
 	bool begin = 0, end = 0;
 	double wx, wy;
-	ifstream num("C:/Users/hayk/source/c++/repos/SfmlFurierSeries/num.txt");
+	ifstream num("../num.txt");
 	num >> N;
 	num >> wx >> wy;
 	RenderWindow window(VideoMode(wx, wy), "funcmaker");
@@ -84,7 +84,7 @@ int main()
 			}
 			if (Keyboard::isKeyPressed(Keyboard::S))
 			{
-				ofstream inputfile("C:/Users/hayk/source/c++/repos/SfmlFurierSeries/inputfile.txt");
+				ofstream inputfile("../inputfile.txt");
 				k = N;
 				b = funci;
 				for (int i = 0; i < funci; i++)
